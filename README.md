@@ -25,8 +25,7 @@ This lab demonstrates how to deploy a secure and well-monitored virtual machine 
 4. Under “Inbound port rules,” allow **RDP (3389)**.
 5. Click **Next** through defaults and hit **Review + Create**.
  
-
----
+![Image alt](https://github.com/vasiliykop/Az-Administration/blob/6c794b8a4b907076b642f85de2bf83f731662de6/VM%20Deployment.png)
 
 ### Step 2: Configure Network Security Group (NSG)
 1. Go to the **Networking** tab during VM deployment or locate the NSG attached to the VM’s NIC.
