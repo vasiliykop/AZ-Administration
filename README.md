@@ -24,6 +24,7 @@ This lab demonstrates how to deploy a secure and well-monitored virtual machine 
 3. Set username/password for admin access.
 4. Under “Inbound port rules,” allow **RDP (3389)**.
 5. Click **Next** through defaults and hit **Review + Create**.
+ 
 
 ---
 
