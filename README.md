@@ -48,6 +48,7 @@ This lab demonstrates how to deploy a secure and well-monitored virtual machine 
    - Select: your test user account
 4. Click **Save**.
 ![Image alt](https://github.com/vasiliykop/Az-Administration/blob/48d1aad0a31f8a49d636bb0143fb9fd6570a5277/RBAC.png)
+![Image alt](https://github.com/vasiliykop/Az-Administration/blob/069750b79ab0f5ca8e6bfe68a3eff333dd643d1d/VM%20RBAC.png)
 ---
 
 ### Step 4: Enable Auto Updates
