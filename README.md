@@ -87,6 +87,6 @@ This lab demonstrates how to deploy a secure and well-monitored virtual machine 
    - Create new or use existing
    - Choose **Email** as notification method
 5. Click **Review + Create**.
-
+![Image alt](https://github.com/vasiliykop/Az-Administration/blob/bc8c583bb6ee996dcd97cd654ead5e5b829f7aac/Alert%20setup.png)
 
 
