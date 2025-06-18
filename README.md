@@ -63,6 +63,7 @@ This lab demonstrates how to deploy a secure and well-monitored virtual machine 
 2. Choose/create a Recovery Services Vault and region.
 3. Click **Enable backup**.
 4. Set backup policy (e.g., daily @ 2:00 AM, retain for 30 days).
+![Image alt](https://github.com/vasiliykop/Az-Administration/blob/44604cc1531f50e48b0934f7e37e2a4df5401033/Backup%20VM.png)
 
 ---
 
