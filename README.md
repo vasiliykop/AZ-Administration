@@ -36,8 +36,8 @@ This lab demonstrates how to deploy a secure and well-monitored virtual machine 
    - Protocol: TCP
    - Action: Allow
 3. Save the rule.
+! [Image alt](https://github.com/vasiliykop/Az-Administration/blob/8f9942d163e177ec7736b7337a3d70872d17ed5a/NSG%20rule%20configuration.png)
 
----
 
 ### Step 3: Assign RBAC Role
 1. Go to the **VM > Access Control (IAM)**.
